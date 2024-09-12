@@ -1,9 +1,10 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3>Name : SRIRAM S S</H3>
+<H3>Register no. : 212222230150</H3>
+<H3>Date : 12.09.2024</H3>
 <H3>Experiment No. 2 </H3>
-<h3>Implementation of Perceptron for Binary Classification</h3> 
-<h2>AIM:</h2>
+
+## Implementation of Perceptron for Binary Classification
+# AIM:
 To implement a perceptron for classification using Python<BR>
 
 # EQUIPMENTS REQUIRED:
